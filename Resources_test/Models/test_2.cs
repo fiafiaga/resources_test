@@ -8,5 +8,7 @@ namespace Resources_test.Models
     public class test_2
     {
         public string asd { get; set; }
+        public string asd_2 { get; set; }
+        public string asd_3 { get; set; }
     }
 }
