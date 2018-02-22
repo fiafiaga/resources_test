@@ -147,7 +147,6 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Model.cs" />
-    <Compile Include="Models\test_2.cs" />
     <Compile Include="Models\test_class.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Resource.Designer.cs">
