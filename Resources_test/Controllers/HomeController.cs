@@ -11,7 +11,7 @@ namespace Resources_test.Controllers
     {
         public ActionResult Index()
         {
-            var model = new Model { Property = "asd changed" };
+            var model = new Model { Property = "asd changed 3" };
             return View(model);
         }
 
