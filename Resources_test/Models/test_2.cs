@@ -7,5 +7,6 @@ namespace Resources_test.Models
 {
     public class test_2
     {
+        public string asd { get; set; }
     }
 }
