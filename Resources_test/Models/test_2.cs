@@ -9,6 +9,6 @@ namespace Resources_test.Models
     {
         public string asd { get; set; }
         public string asd_2 { get; set; }
-        public string asd_3 { get; set; }
+        public string qwerty { get; set; }
     }
 }
